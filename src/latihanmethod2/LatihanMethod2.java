@@ -40,13 +40,13 @@ public class LatihanMethod2 {
                 operasi = "Penjumplahan";
                 break;
             case "2":
-                operasi = "pengurangan";
+                operasi = "Pengurangan";
                 break;
             case "3":
-                operasi = "perkalian";
+                operasi = "Perkalian";
                 break;
             case "4":
-                operasi = "pembagian";
+                operasi = "Pembagian";
                 break;
             default:
                 JOptionPane.showMessageDialog(null, "Inputanmu SALAH!", "Error", JOptionPane.ERROR_MESSAGE);
